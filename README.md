@@ -1,16 +1,19 @@
-### Hi there I am Sanjeeban.
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I am Sanjeeban!
 
-<!--
-**sanjeeban5644/sanjeeban5644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sanjeeban-mukhopadhyay-4bb4b01b8/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://twitter.com/sanjeeban2552">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:sanjeeban5644@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me :airplane:
+:mortar_board: I am currently pursuing my Bachelors in Computer Science & Engineering.</br>
+:computer: I know C and Python. I am passionate about Android :iphone: and am learning Java</br>
+:badminton: I love playing Badminton and have a keen interest in watching movies :clapper:
+
