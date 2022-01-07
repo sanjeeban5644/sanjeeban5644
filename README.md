@@ -15,5 +15,5 @@
 ### About Me :airplane:
 :mortar_board: I am currently pursuing my Bachelors in Computer Science & Engineering.</br>
 :computer: I know C and Python. I am passionate about Android :iphone: and am learning Java</br>
-:badminton: I love playing Badminton and have a keen interest in watching movies :clapper:
+:sun_with_face: Fun Fact :  When I am not coding I am either listening to music :musical_note: or watching movies :clapper:
 
