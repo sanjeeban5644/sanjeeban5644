@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/sanjeeban-mukhopadhyay-4bb4b01b8/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
-<a href="https://twitter.com/sanjeeban2552">
+<a href="https://twitter.com/sanjeeban_5644">
   <img align="left" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 <a href="mailto:sanjeeban5644@gmail.com">
