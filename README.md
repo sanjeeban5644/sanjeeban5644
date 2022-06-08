@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I am Sanjeeban!
+## Hey :wave:, I am Sanjeeban!
 
 <a href="https://www.linkedin.com/in/sanjeeban-mukhopadhyay-4bb4b01b8/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
