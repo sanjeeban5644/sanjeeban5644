@@ -18,3 +18,11 @@
 :sun_with_face: Fun Fact :  When I am not coding I am either listening to music :musical_note: or watching movies :clapper:</br>
 :pushpin: LeetCode Profile Link : https://leetcode.com/sanjeeban5644/
 
+
+
+<p align="center">
+<a href="https://github.com/sanjeeban5644">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanjeeban5644&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeeban5644&theme=radical"/>
+</a>
+</p>
