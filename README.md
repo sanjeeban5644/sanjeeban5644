@@ -10,16 +10,21 @@
   <img align="left" width="26px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 </a>
 
-<br />
+<br/>
 
 ### About Me :airplane:
 :mortar_board: I am currently pursuing my Bachelors in Computer Science & Engineering.</br>
 :computer: I am passionate about Android :iphone: and am continuously trying to better myself at it.</br>
 :sun_with_face: Fun Fact :  When I am not coding I am either listening to music :musical_note: or watching movies :clapper:</br>
 :pushpin: LeetCode Profile Link : https://leetcode.com/sanjeeban5644/
+---
+## Checkout my works 
+<p display="flex">
 
-
-
+[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sanjeeban5644)
+[![Dev to ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sanjeeban5644) 
+---
+<br/>
 <p align="center">
 <a href="https://github.com/sanjeeban5644">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sanjeeban5644&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
