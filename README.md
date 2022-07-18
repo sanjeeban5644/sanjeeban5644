@@ -26,7 +26,7 @@
 [![Dev to ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sanjeeban5644) 
 
 ---
-
+<!---
 <br/>
 <p align="center">
 <a href="https://github.com/sanjeeban5644">
@@ -34,3 +34,4 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeeban5644&theme=radical"/>
 </a>
 </p>
+-->
