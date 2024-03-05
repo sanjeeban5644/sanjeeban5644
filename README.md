@@ -1,4 +1,27 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I am Sanjeeban!
+## Hey  :wave: I am Sanjeeban! :nerd_face:
+
+
+
+### About Me :airplane:
+
+:red_circle: I bring proficiency in Java, Data Structures and Algorithms and Object-Oriented Programming. <br/>
+:green_circle: I am well-versed in Android Development. <br/>
+:purple_circle: Additionally, I’m familiar with the Spring framework, Git for version control and SQL for RDBMS. <br/>
+:yellow_circle: I have also built projects using the above technologies. <br/>
+:orange_circle: I am passionate about technology and committed to continuous learning and growth in the software development realm. <br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjeeban5644.sanjeeban5644)
+
+---
+
+## Checkout my works 
+<p display="flex">
+
+[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sanjeeban5644)
+[![Dev to ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sanjeeban5644) 
+
+
+### Connect With Me 
 
 <a href="https://www.linkedin.com/in/sanjeeban-mukhopadhyay-4bb4b01b8/">
   <img align="left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
@@ -11,21 +34,6 @@
 </a>
 
 <br/>
-
-### About Me :airplane:
-:mortar_board: I am currently pursuing my Bachelors in Computer Science & Engineering.</br>
-:computer: I am passionate about Android :iphone: and am continuously trying to better myself at it.</br>
-:sun_with_face: Fun Fact :  When I am not coding I am either listening to music :musical_note: or watching movies :clapper:</br>
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjeeban5644.sanjeeban5644)
-
----
-
-## Checkout my works 
-<p display="flex">
-
-[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@sanjeeban5644)
-[![Dev to ](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/sanjeeban5644) 
 
 ---
 <!---
