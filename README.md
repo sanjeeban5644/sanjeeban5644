@@ -4,11 +4,19 @@
 
 ### About Me :airplane:
 
-:red_circle: I bring proficiency in Java, Data Structures and Algorithms and Object-Oriented Programming. <br/>
-:green_circle: I am well-versed in Android Development. <br/>
-:purple_circle: Additionally, I’m familiar with the Spring framework, Git for version control and SQL for RDBMS. <br/>
-:yellow_circle: I have also built projects using the above technologies. <br/>
-:orange_circle: I am passionate about technology and committed to continuous learning and growth in the software development realm. <br/>
+🧠 What I Bring<br><br>
+🔴 Java Proficiency – Solid understanding of core concepts, collections, exception handling, and multithreading.<br>
+🟣 Spring Boot – Experience in developing and testing RESTful APIs using Spring Boot and Spring JPA.<br>
+🟡 SQL & RDBMS – Proficient in SQL and familiar with database design, normalization, and querying.<br>
+🟠 Version Control with Git – Comfortable with Git workflows, branching, and collaboration on GitHub.<br>
+🟢 Android Development – Skilled in building responsive and efficient Android apps using Java and XML.<br><br>
+
+🏢 Experience<br><br>
+🌱 Currently working at Tata Consultancy Services (TCS), Kolkata, where I:<br>
+🔧 Develop and test backend REST APIs using Spring Boot, JPA, and SQL.<br>
+🛠️ Collaborate closely with the client team to identify, debug, and resolve production issues.<br>
+🧹 Participate in code reviews and contribute to clean, maintainable, and scalable code.<br>
+🌍 Communicate and coordinate with a global banking and insurance client to ensure smooth delivery.<br><br>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sanjeeban5644.sanjeeban5644)
 
